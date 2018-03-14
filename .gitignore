@@ -1,0 +1,14 @@
+# IDE Files #
+.idea
+*.iml
+.project
+.classpath
+.settings
+.nb-gradle
+nb-configuration.xml
+
+# Build Files#
+out
+
+# Compiled Files #
+*.class
